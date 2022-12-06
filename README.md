@@ -1,0 +1,1 @@
+## csak kattints rá és kész. törli a gitet és a vscode git dolgot
